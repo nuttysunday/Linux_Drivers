@@ -1,3 +1,0 @@
-bth_1208LS
-mccBluetooth
-test-bth1208LS
