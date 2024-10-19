@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="MCC_Linux_driver", 
-    version="0.1.3",  
+    version="0.1.5",  
     author='S Ghodke',
     author_email="sghodke@ncsu.edu",
     description='Linux Drivers for MCC',
