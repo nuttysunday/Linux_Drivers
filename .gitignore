@@ -97,3 +97,7 @@ ehthumbs.db
 Thumbs.db
 
 test_publish_package/
+
+rough.txt
+dev_env/
+main.py

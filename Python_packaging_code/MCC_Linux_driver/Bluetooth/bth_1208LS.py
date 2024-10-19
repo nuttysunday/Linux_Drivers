@@ -18,7 +18,7 @@
 import bluetooth
 import time
 from struct import *
-from mccBluetooth import *
+from .mccBluetooth import *
 from datetime import datetime
 
 class BTH_1208LS(mccBluetoothDevice):
